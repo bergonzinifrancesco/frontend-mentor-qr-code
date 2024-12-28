@@ -1,4 +1,3 @@
-import { bold } from "$std/fmt/colors.ts";
 import { type Config } from "tailwindcss";
 
 export default {
