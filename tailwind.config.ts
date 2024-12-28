@@ -20,8 +20,8 @@ export default {
         "slate-900": "#1F314F"
       },
       fontSize: {
-        xl: ["22px", "1.2lh"],
-        base: ["15px", "1.4lh"]
+        xl: ["22px", "1.2"],
+        base: ["15px", "1.4"]
       }
     },
   },
